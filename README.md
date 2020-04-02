@@ -1,7 +1,7 @@
 # Gulp SASS Boilerplate
 
 ## Requirements
-*Project requires Node.js v10+ to run.*
+Node version 10
 
 ## Installation
 Clone the project to you're local repository. Install the devDependencies and start browserSync:
